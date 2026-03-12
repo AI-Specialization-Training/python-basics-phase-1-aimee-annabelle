@@ -7,7 +7,7 @@
 # ============================================================================
 
 def printHello():
-    print("Hello!")
+    return "Hello!"
 
 
-printHello()
+print(printHello())
